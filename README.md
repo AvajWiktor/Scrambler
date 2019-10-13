@@ -9,11 +9,17 @@ First password is: wesolyborowik69
 Second is current day of the week in polish:
 
 monday = poniedzialek
+
 tuesday = wtorek
+
 wednesday = sroda
+
 thursday = czwartek
+
 friday = piatek
+
 saturday = sobota
+
 sunday = niedziela
 
 Then program asks you:
